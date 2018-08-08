@@ -1,2 +1,2 @@
 # Football_Prediction_Using_Regression
-Using Regression to predict number of goals scored and thereby the fate of the match.
+Applying linear regression on football data to find the relation of goals scored between teams
